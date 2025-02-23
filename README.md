@@ -40,8 +40,10 @@
 
 ### 📊 GitHub Stats
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=gourav2001k&show_icons=true&locale=en" alt="gourav2001k" /></p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gourav2001k&show_icons=true&locale=en" alt="GitHub Stats" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav2001k&" alt="GitHub Streak" />
+</p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=gourav2001k&" alt="gourav2001k" /></p>
 
 ---
