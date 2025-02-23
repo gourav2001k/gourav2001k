@@ -3,7 +3,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working as a **Software Developer at Chubb**
-- 🏆 Passionate about **Data Structures & Algorithms**, holding **Expert** rank on Codeforces, **5-star** on CodeChef, and ranked in the **top 0.5%** on LeetCode.
+- 🏆 **Expert in DSA & Competitive Programming** - Codeforces **Expert**, CodeChef **5-star**, LeetCode **top 0.5%**.
 - 🌱 Exploring **Full Stack Development, Web Services, DevOps, and Deep Learning**
 - 💬 Ask me about **Backend Development, AI, Chess**
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1ARr59uK6ff7iKh1l2Zr3ssXaB-NGbzKy/view)**
@@ -41,10 +41,6 @@
 
 ### 📊 GitHub Stats
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourav2001k&show_icons=true&locale=en" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav2001k&" alt="GitHub Streak" width="48%"/>
-</div>
-
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav2001k&" alt="GitHub Streak" width="48%"/>
 
 ---
