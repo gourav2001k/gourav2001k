@@ -3,6 +3,7 @@
 
 ### 🚀 About Me
 - 🔭 Currently working as a **Software Developer at Chubb**
+- 🏆 Passionate about **Data Structures & Algorithms**, holding **Expert** rank on Codeforces, **5-star** on CodeChef, and ranked in the **top 0.5%** on LeetCode.
 - 🌱 Exploring **Full Stack Development, Web Services, DevOps, and Deep Learning**
 - 💬 Ask me about **Backend Development, AI, Chess**
 - 📄 Check out my **[Resume](https://drive.google.com/file/d/1ARr59uK6ff7iKh1l2Zr3ssXaB-NGbzKy/view)**
@@ -13,9 +14,9 @@
 ### 📬 Competitive Programming & Profiles
 <p align="left">
 <a href="https://linkedin.com/in/gourav2001k" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="LinkedIn" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/gourav2001k" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/gourav2001k" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/gourav2001k" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="LeetCode" height="30" width="40" /></a>
+<a href="https://codeforces.com/profile/gourav2001k" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="CodeForces" height="30" width="40" /></a>
+<a href="https://www.codechef.com/users/gourav2001k" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="CodeChef" height="30" width="40" /></a>
 </p>
 
 ---
@@ -40,10 +41,10 @@
 
 ### 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=gourav2001k&show_icons=true&locale=en" alt="GitHub Stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav2001k&" alt="GitHub Streak" />
-</p>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=gourav2001k&show_icons=true&locale=en" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gourav2001k&" alt="GitHub Streak" width="48%"/>
+</div>
 
 
 ---
